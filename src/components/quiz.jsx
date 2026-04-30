@@ -77,6 +77,5 @@ function Quiz() {
         </div>
     );
 }
-deffefsf
 
 export default Quiz;
